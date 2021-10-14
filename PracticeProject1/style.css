@@ -1,0 +1,66 @@
+body {
+    background-color: #f16059;
+    color: #222;
+  }
+
+.container
+{
+    width:1024px;
+    height:500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+}
+
+h1
+{
+    font-family: 'Bungee Shade', cursive;
+    font-size: 50px;
+    
+}
+h2,h3,h4{
+    font-family: 'Bungee Shade', cursive;
+}
+.center{
+    text-align:center;
+}
+.heading2
+{
+    text-align: center;
+    padding-top: 30px;
+}
+.img{
+    padding-top: 30px;
+    text-align: center;
+}
+.button_col
+{
+    padding-top: 20px;
+    text-align: center;
+
+}
+h4{
+    padding-top: 10px;
+    color: black;
+}
+.imageText
+{
+    text-align: center;
+    margin-top: n40px;
+}
+.bottom
+{
+    position: absolute;
+    top: 65%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+.bottom h4{
+    color: rgba(255, 255, 255, 0.575);
+}
+
+.border{
+    border-radius: 5px;
+}
